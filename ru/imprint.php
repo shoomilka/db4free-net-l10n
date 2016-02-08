@@ -5,7 +5,7 @@ Language: Russian
 */
 
 $translations = array(
-    'h1' => 'Оттиск',
+    'h1' => 'Импринт',
 
     'p1' => '&copy; 2005-%d ',
 
